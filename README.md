@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LENSHOOD/LENSHOOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LENSHOOD&count_private=true&show_icons=true">
+
+### Hi! I'm LENSHOOD
+---
+💻 Senior Software Developer [@ThoughtWorks](https://www.thoughtworks.com/)<br>
+🎓 Master of Engineering in EE [@UCAS](https://www.ucas.edu.cn/)<br>
+📝 Blog: [LENSHOOD's Blog](https://lenshood.github.io/)<br>
+📫 Mail: lenshood.zxh@gmail.com<br>
+
+🐈🐈🐈 My Cats:
+![img](https://lenshood.github.io/about/three-cats.jpeg)
