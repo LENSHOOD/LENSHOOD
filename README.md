@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi! I'm LENSHOOD
 ---
-💻 Senior Software Developer [@ThoughtWorks](https://www.thoughtworks.com/)<br>
+💻 Developer & Lead Consultant [@ThoughtWorks](https://www.thoughtworks.com/)<br>
 🎓 Master of Engineering in EE [@UCAS](https://www.ucas.edu.cn/)<br>
 📝 Blog: [LENSHOOD's Blog](https://lenshood.github.io/)<br>
 📫 Mail: lenshood.zxh@gmail.com<br>
