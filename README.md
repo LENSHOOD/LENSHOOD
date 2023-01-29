@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 💻 Developer & Lead Consultant [@ThoughtWorks](https://www.thoughtworks.com/)<br>
 🎓 Master of Engineering in EE [@UCAS](https://www.ucas.edu.cn/)<br>
-📝 Blog: [LENSHOOD's Blog](https://lenshood.github.io/)<br>
+📝 Blog: [LENSHOOD's Blog](https://lenshood.dev/)<br>
 📫 Mail: lenshood.zxh@gmail.com<br>
 
 🐈🐈🐈 My Cats:
